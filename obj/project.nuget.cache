@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5GGKlPL/VWDTyfO7R6xahIWzMosp1iNUHKnp3xgzXQjTCj4X6pystfv+8/iwVcmMcCinQLL1TyVKhT/+iSALQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\raven\\Desktop\\BookAPIServices-main\\BookWebAPI\\BookWebAPI\\BookWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raven\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\raven\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

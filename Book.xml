@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Book</name>
+    </assembly>
+    <members>
+        <member name="T:BookProject.Book">
+            <summary>
+            Book class library.
+            </summary>
+        </member>
+        <member name="P:BookProject.Book.Title">
+            <summary>
+            Title property with rule abiding set function.
+            </summary>
+        </member>
+        <member name="P:BookProject.Book.Author">
+            <summary>
+            Author property.
+            </summary>
+        </member>
+        <member name="P:BookProject.Book.PageAmount">
+            <summary>
+            Page amount property with rule abiding set function.
+            </summary>
+        </member>
+        <member name="P:BookProject.Book.Isbn">
+            <summary>
+            ISBN number property with rule abiding set function.
+            </summary>
+        </member>
+        <member name="M:BookProject.Book.#ctor(System.String,System.String,System.Int32,System.String)">
+            <summary>
+            This is the parametric constructor for the Book class.
+            </summary>
+            <param name="title"></param>
+            <param name="author"></param>
+            <param name="pageAmount"></param>
+            <param name="isbn"></param>
+        </member>
+    </members>
+</doc>
